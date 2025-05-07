@@ -27,5 +27,3 @@ const dd = [
     age: "3232",
   },
 ];
-
-const aaa = 'dfdfsafddfsafas'
